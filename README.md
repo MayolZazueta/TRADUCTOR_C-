@@ -1,0 +1,2 @@
+# TRADUCTOR_C-
+COMPILER C++
