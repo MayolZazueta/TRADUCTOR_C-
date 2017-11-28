@@ -1,5 +1,3 @@
 # TRADUCTOR_C-
 COMPILER C++
-.. image:: ../images/1.jpg
-  :alt:
-  :align: center
+!\0-9=8[images/1.jpg]
